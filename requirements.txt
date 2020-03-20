@@ -1,11 +1,12 @@
 # Cython
-Cython==0.29.15
+#Cython==0.29.15
 
 # Data Science Dependencies
 pandas==1.0.3
 matplotlib==3.2.1
 scikit-learn==0.22.2.post1
 numpy==1.18.2
+scipy==1.4.1
 
 # HTTP
 requests2==2.16.0

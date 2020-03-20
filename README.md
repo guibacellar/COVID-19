@@ -2,4 +2,4 @@
 COVID-19 Data Analysis
 
 # Python Version
-3.8
+3.7
