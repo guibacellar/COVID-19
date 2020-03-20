@@ -4,6 +4,10 @@ import cv19_parser
 import gc
 import pandas as pd
 import matplotlib
+import matplotlib.pyplot as plt
+
+
+matplotlib.use('tkagg')
 
 def main() -> None:
 
@@ -21,6 +25,7 @@ def main() -> None:
     df = pd.read_csv( cv19_constants.TARGET_TIMELINE_CSV_DATA)
 
     brazil = df[df['countrycode'] == 'BR']
+    brazil = brazil[brazil['totalcases'] > 0]
 
     columns = [
         'date',
@@ -29,9 +34,31 @@ def main() -> None:
         'totalrecovered'
     ]
 
-    brazil[columns].plot()
+    series = brazil[columns]
 
-    print(len(df))
+    fig = plt.figure()
+    ax1 = fig.add_subplot(111)
+
+    ax1.plot(
+        series['date'],
+        series['totalcases'],
+        color='blue',
+        marker='+'
+    )
+    ax1.plot(
+       series['date'],
+       series['totaldeaths'],
+       color='red',
+       marker='+'
+    )
+    # ax1.plot(
+    #     series['date'],
+    #     series['totalrecovered'],
+    #     color='green',
+    #     marker='o'
+    # )
+    plt.show()
+
 
 if __name__ == '__main__':
     main()
