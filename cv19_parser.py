@@ -58,7 +58,12 @@ def parse_timeline_raw_data_to_csv() -> None:
             df = df.append(country_data, ignore_index=True)
 
     print(' | Removing Invalid Data', end='')
-    df = df[df['countrycode'] != '' & df['countrycode'] != ' ']
+
+    # Remove Empty Data
+    df = df[(df['countrycode'] != '') & (df['countrycode'] != ' ')]
+
+    # Remove the strange \r in date column
+    df.loc[:, ('date')] = df.apply(lambda row: row['date'].replace('\r', ''), axis=1)
 
     print(' | Dumping CSV', end='')
 
