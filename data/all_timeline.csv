@@ -10561,181 +10561,360 @@ date,countrycode,countrylabel,showcountrylabelcases,labelpositioncases,showcount
 3/20/20,HK,Hong Kong,no,,,,no,,,,,,,,,,
 3/20/20,DP,Diamond Princess,no,,,,,,,,,,,,761,,
 3/21/20,AF,Afghanistan,no,,,,no,,,,,,,,24,,1
-3/21/20,AL,Albania,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,70,2,
-3/21/20,DZ,Algeria,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,90,11,32
-3/21/20,AO,Angola,no,,,,no,,,,,,,,1,,
-3/21/20,AR,Argentina,no,,,,no,,,,,,,,128,3,3
-3/21/20,AM,Armenia,no,,,,no,,,,,,,,136,,1
-3/21/20,AU,Australia,yes,,yes,,yes,,,,,,,,791,7,26
-3/21/20,AT,Austria,no,,,,no,,,,,,,,2388,6,9
-3/21/20,AZ,Azerbaijan,no,,,,no,,,,,,,,44,1,6
+3/21/20,AL,Albania,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,76,2,2
+3/21/20,DZ,Algeria,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,139,15,32
+3/21/20,AO,Angola,no,,,,no,,,,,,,,2,,
+3/21/20,AR,Argentina,no,,,,no,,,,,,,,158,4,3
+3/21/20,AM,Armenia,no,,,,no,,,,,,,,160,,1
+3/21/20,AU,Australia,yes,,yes,,yes,,,,,,,,1071,7,26
+3/21/20,AT,Austria,no,,,,no,,,,,,,,2814,8,9
+3/21/20,AZ,Azerbaijan,no,,,,no,,,,,,,,53,1,11
 3/21/20,BS,Bahamas,no,,,,no,,,,,,,,,,
-3/21/20,BD,Bangladesh,no,,,,no,,,,,,,,20,1,3
-3/21/20,BY,Belarus,no,,,,no,,,,,,,,69,,5
-3/21/20,BE,Belgium,no,,,,no,,,,,,,,2257,37,1
+3/21/20,BD,Bangladesh,no,,,,no,,,,,,,,25,2,3
+3/21/20,BY,Belarus,no,,,,no,,,,,,,,76,,15
+3/21/20,BE,Belgium,no,,,,no,,,,,,,,2815,67,263
 3/21/20,BZ,Belize,no,,,,no,,,,,,,,,,
 3/21/20,BJ,Benin,no,,,,no,,,,,,,,2,,
 3/21/20,BT,Bhutan,no,,,,no,,,,,,,,2,,
 3/21/20,BO,Bolivia (Plurinational State of),no,,,,no,,,,,,,,,,
-3/21/20,BA,Bosnia and Herzegovina,no,,,,no,,,,,,,,89,,2
+3/21/20,BA,Bosnia and Herzegovina,no,,,,no,,,,,,,,93,1,2
 3/21/20,BW,Botswana,no,,,,no,,,,,,,,,,
-3/21/20,BR,Brazil,yes,,yes,,yes,,,,,,,,793,11,2
+3/21/20,BR,Brazil,yes,,yes,,yes,,,,,,,,1021,15,2
 3/21/20,BN,Brunei Darussalam,no,,,,no,,,,,,,,,,
-3/21/20,BG,Bulgaria,no,,,,no,,,,,,,,127,3,
-3/21/20,BF,Burkina Faso,no,,,,no,,,,,,,,40,1,
+3/21/20,BG,Bulgaria,no,,,,no,,,,,,,,163,3,3
+3/21/20,BF,Burkina Faso,no,,,,no,,,,,,,,64,2,5
 3/21/20,BI,Burundi,no,,,,no,,,,,,,,,,
-3/21/20,KH,Cambodia,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,51,,1
-3/21/20,CM,Cameroon,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,20,,
-3/21/20,CA,Canada,yes,,yes,,yes,,,,,,,,943,12,9
+3/21/20,KH,Cambodia,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,53,,1
+3/21/20,CM,Cameroon,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,27,,
+3/21/20,CA,Canada,yes,,yes,,yes,,,,,,,,1278,19,10
 3/21/20,CF,Central African Republic,no,,,,no,,,,,,,,3,,
 3/21/20,TD,Chad,no,,,,no,,,,,,,,1,,
-3/21/20,CL,Chile,no,,,,no,,,,,,,,434,,6
-3/21/20,CN,China,yes,,yes,,yes,,80559,3042,53929,,,,81250,3253,71266
-3/21/20,CO,Colombia,no,,,,no,,,,,,,,128,,1
+3/21/20,CL,Chile,no,,,,no,,,,,,,,537,,6
+3/21/20,CN,China,yes,,yes,,yes,,80559,3042,53929,,,,81305,3259,71857
+3/21/20,CO,Colombia,no,,,,no,,,,,,,,196,,1
 3/21/20,CG,Congo Republic,no,,,,no,,,,,,,,,,
 3/21/20,CD,DR Congo,no,,,,no,,,,,,,,,,
-3/21/20,CR,Costa Rica,no,,,,no,,,,,,,,89,1,
+3/21/20,CR,Costa Rica,no,,,,no,,,,,,,,117,2,2
 3/21/20,CI,Côte d'Ivoire,no,,,,no,,,,,,,,,,
-3/21/20,HR,Croatia,no,,,,no,,,,,,,,128,1,5
-3/21/20,CU,Cuba,no,,,,no,,,,,,,,16,1,
-3/21/20,CY,Cyprus,no,,,,no,,,,,,,,67,,
-3/21/20,CZ,Czech Republic,no,,,,no,,,,,,,,833,,4
-3/21/20,DK,Denmark,no,,,,no,,,,,,,,1337,9,1
+3/21/20,HR,Croatia,no,,,,no,,,,,,,,206,1,5
+3/21/20,CU,Cuba,no,,,,no,,,,,,,,21,1,
+3/21/20,CY,Cyprus,no,,,,no,,,,,,,,84,,
+3/21/20,CZ,Czech Republic,no,,,,no,,,,,,,,995,,6
+3/21/20,DK,Denmark,no,,,,no,,,,,,,,1420,13,1
 3/21/20,DJ,Djibouti,no,,,,no,,,,,,,,1,,
-3/21/20,DO,Dominican Republic,no,,,,no,,,,,,,,72,2,
-3/21/20,EC,Ecuador,no,,,,no,,,,,,,,367,5,
-3/21/20,EG,Egypt,no,,,,no,,,,,,,,285,8,39
-3/21/20,SV,El Salvador,no,,,,no,,,,,,,,1,,
+3/21/20,DO,Dominican Republic,no,,,,no,,,,,,,,112,2,
+3/21/20,EC,Ecuador,no,,,,no,,,,,,,,506,7,3
+3/21/20,EG,Egypt,no,,,,no,,,,,,,,294,10,41
+3/21/20,SV,El Salvador,no,,,,no,,,,,,,,3,,
 3/21/20,GQ,Equatorial Guinea,no,,,,no,,,,,,,,6,,
-3/21/20,ER,Eritrea,no,,,,no,,,,,,,,,,
-3/21/20,EE,Estonia,no,,,,no,,,,,,,,283,,1
+3/21/20,ER,Eritrea,no,,,,no,,,,,,,,1,,
+3/21/20,EE,Estonia,no,,,,no,,,,,,,,306,,1
 3/21/20,ET,Ethiopia,no,,,,no,,,,,,,,9,,
 3/21/20,FK,Falklands,no,,,,no,,,,,,,,,,
 3/21/20,FJ,Fiji,no,,,,no,,,,,,,,1,,
-3/21/20,FI,Finland,no,,,,no,,,,,,,,450,,10
-3/21/20,FR,France,yes,west,yes,west,yes,west,,,12,,,,12726,450,12
+3/21/20,FI,Finland,no,,,,no,,,,,,,,523,1,10
+3/21/20,FR,France,yes,west,yes,west,yes,west,,,12,,,,14431,562,12
 3/21/20,GF,French Guiana,no,,,,no,,,,,,,,,,
 3/21/20,TF,French Southern Territories,no,,,,no,,,,,,,,,,
-3/21/20,GA,Gabon,no,,,,no,,,,,,,,3,1,
+3/21/20,GA,Gabon,no,,,,no,,,,,,,,4,1,
 3/21/20,GM,Gambia,no,,,,no,,,,,,,,,,
-3/21/20,GE,Georgia,no,,,,no,,,,,,,,43,,1
-3/21/20,DE,Germany,yes,east,,,yes,east,555,,17,,,,19848,67,180
-3/21/20,GH,Ghana,no,,,,no,,,,,,,,16,,
-3/21/20,GR,Greece,no,,no,,no,,,,,,,,495,6,19
+3/21/20,GE,Georgia,no,,,,no,,,,,,,,49,,1
+3/21/20,DE,Germany,yes,east,,,yes,east,555,,17,,,,22213,84,233
+3/21/20,GH,Ghana,no,,,,no,,,,,,,,19,1,
+3/21/20,GR,Greece,no,,no,,no,,,,,,,,530,13,19
 3/21/20,GL,Greenland,no,,,,no,,,,,,,,,,
-3/21/20,GT,Guatemala,no,,,,no,,,,,,,,12,1,
-3/21/20,GN,Guinea,no,,,,no,,,,,,,,1,,
+3/21/20,GT,Guatemala,no,,,,no,,,,,,,,17,1,
+3/21/20,GN,Guinea,no,,,,no,,,,,,,,2,,
 3/21/20,GW,Guinea-Bissau,no,,,,no,,,,,,,,,,
 3/21/20,GY,Guyana,no,,,,no,,,,,,,,7,1,
 3/21/20,HT,Haiti,no,,,,no,,,,,,,,2,,
 3/21/20,HN,Honduras,no,,,,no,,,,,,,,24,,
-3/21/20,HU,Hungary,no,,,,no,,,,,,,,85,3,2
-3/21/20,IS,Iceland,no,,,,no,,,,,,,,409,,5
-3/21/20,IN,India,no,,,,no,,,,,,,,244,5,20
-3/21/20,ID,Indonesia,no,,,,no,,,,,,,,369,32,15
-3/21/20,IR,Iran,yes,south,yes,south,yes,south,,,,,,,19644,1433,6745
-3/21/20,IQ,Iraq,no,,,,no,,,,,,,,208,17,49
-3/21/20,IE,Ireland,no,,,,no,,,,,,,,683,3,5
-3/21/20,IL,Israel,no,,,,no,,,,,,,,705,,14
-3/21/20,IT,Italy,yes,south,yes,south,yes,south,,,,,,,47021,4032,4440
+3/21/20,HU,Hungary,no,,,,no,,,,,,,,103,4,7
+3/21/20,IS,Iceland,no,,,,no,,,,,,,,473,1,22
+3/21/20,IN,India,no,,,,no,,,,,,,,330,4,23
+3/21/20,ID,Indonesia,no,,,,no,,,,,,,,450,38,15
+3/21/20,IR,Iran,yes,south,yes,south,yes,south,,,,,,,20610,1556,7635
+3/21/20,IQ,Iraq,no,,,,no,,,,,,,,214,17,51
+3/21/20,IE,Ireland,no,,,,no,,,,,,,,785,3,5
+3/21/20,IL,Israel,no,,,,no,,,,,,,,883,1,36
+3/21/20,IT,Italy,yes,south,yes,south,yes,south,,,,,,,53578,4825,6072
 3/21/20,JM,Jamaica,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,16,1,2
-3/21/20,JP,Japan,yes,east,yes,east,yes,east,381,6,43,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,963,33,191
+3/21/20,JP,Japan,yes,east,yes,east,yes,east,381,6,43,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,1007,35,232
 3/21/20,JO,Jordan,no,,,,no,,,,,,,,85,,1
-3/21/20,KZ,Kazakhstan,no,,,,no,,,,,,,,49,3,
+3/21/20,KZ,Kazakhstan,no,,,,no,,,,,,,,53,,
 3/21/20,KE,Kenya,no,,,,no,,,,,,,,7,,
 3/21/20,KP,North Korea,no,,,,no,,,,,,,,,,
-3/21/20,KR,South Korea,yes,north,yes,north,yes,north,6593,42,135,,,,6593,42,135
-3/21/20,KW,Kuwait,no,,,,no,,,,,,,,159,,18
-3/21/20,KG,Kyrgyzstan,no,,,,no,,,,,,,,6,,
+3/21/20,KR,South Korea,yes,north,yes,north,yes,north,6593,42,135,,,,,,
+3/21/20,KW,Kuwait,no,,,,no,,,,,,,,176,,27
+3/21/20,KG,Kyrgyzstan,no,,,,no,,,,,,,,14,,
 3/21/20,LA,Laos,no,,,,no,,,,,,,,,,
-3/21/20,LV,Latvia,no,,,,no,,,,,,,,111,,1
-3/21/20,LB,Lebanon,no,,,,no,,,,,,,,163,4,4
+3/21/20,LV,Latvia,no,,,,no,,,,,,,,124,,1
+3/21/20,LB,Lebanon,no,,,,no,,,,,,,,187,4,4
 3/21/20,LS,Lesotho,no,,,,no,,,,,,,,,,
-3/21/20,LR,Liberia,no,,,,no,,,,,,,,2,,
+3/21/20,LR,Liberia,no,,,,no,,,,,,,,3,,
 3/21/20,LY,Libya,no,,,,no,,,,,,,,,,
-3/21/20,LT,Lithuania,no,,,,no,,,,,,,,49,,1
-3/21/20,LU,Luxembourg,no,,,,no,,,,,,,,484,4,
+3/21/20,LT,Lithuania,no,,,,no,,,,,,,,83,1,1
+3/21/20,LU,Luxembourg,no,,,,no,,,,,,,,670,8,
 3/21/20,MK,Macedonia,no,,,,no,,,,,,,,,,
 3/21/20,MG,Madagascar,no,,,,no,,,,,,,,3,,
 3/21/20,MW,Malawi,no,,,,no,,,,,,,,,,
-3/21/20,MY,Malaysia,no,,,,no,,,,,,,,1030,3,87
+3/21/20,MY,Malaysia,no,,,,no,,,,,,,,1183,4,114
 3/21/20,ML,Mali,no,,,,no,,,,,,,,,,
 3/21/20,MR,Mauritania,no,,,,no,,,,,,,,2,,
-3/21/20,MX,Mexico,no,,,,no,,,,,,,,164,1,4
+3/21/20,MX,Mexico,no,,,,no,,,,,,,,203,2,4
 3/21/20,MD,Moldova,no,,,,no,,,,,,,,,,
-3/21/20,MN,Mongolia,no,,,,no,,,,,,,,6,,
+3/21/20,MN,Mongolia,no,,,,no,,,,,,,,10,,
 3/21/20,ME,Montenegro,no,,,,no,,,,,,,,14,,
-3/21/20,MA,Morocco,no,,,,no,,,,,,,,77,3,1
+3/21/20,MA,Morocco,no,,,,no,,,,,,,,96,3,3
 3/21/20,MZ,Mozambique,no,,,,no,,,,,,,,,,
 3/21/20,MM,Myanmar,no,,,,no,,,,,,,,,,
 3/21/20,NA,Namibia,no,,,,no,,,,,,,,3,,
 3/21/20,NP,Nepal,no,,,,no,,,,,,,,1,,1
-3/21/20,NL,Netherlands,no,,,,no,,,,,,,,3003,107,2
+3/21/20,NL,Netherlands,no,,,,no,,,,,,,,3640,137,2
 3/21/20,NC,New Caledonia,no,,,,no,,,,,,,,,,
-3/21/20,NZ,New Zealand,no,,,,no,,,,,,,,39,,
-3/21/20,NI,Nicaragua,no,,,,no,,,,,,,,1,,
+3/21/20,NZ,New Zealand,no,,,,no,,,,,,,,52,,
+3/21/20,NI,Nicaragua,no,,,,no,,,,,,,,2,,
 3/21/20,NE,Niger,no,,,,no,,,,,,,,1,,
-3/21/20,NG,Nigeria,no,,,,no,,,,,,,,12,,1
-3/21/20,NO,Norway,no,,,,no,,,,,,,,1914,7,1
-3/21/20,OM,Oman,no,,,,no,,,,,,,,48,,12
-3/21/20,PK,Pakistan,no,,,,no,,,,,,,,501,3,13
+3/21/20,NG,Nigeria,no,,,,no,,,,,,,,22,,1
+3/21/20,NO,Norway,no,,,,no,,,,,,,,2118,7,1
+3/21/20,OM,Oman,no,,,,no,,,,,,,,52,,12
+3/21/20,PK,Pakistan,no,,,,no,,,,,,,,730,3,13
 3/21/20,PS,Palestine,no,,,,no,,,,,,,,,,
-3/21/20,PA,Panama,no,,,,no,,,,,,,,137,1,
+3/21/20,PA,Panama,no,,,,no,,,,,,,,200,1,
 3/21/20,PG,Papua New Guinea,no,,,,no,,,,,,,,1,,
-3/21/20,PY,Paraguay,no,,,,no,,,,,,,,13,,
-3/21/20,PE,Peru,no,,,,no,,,,,,,,234,3,1
-3/21/20,PH,Philippines,no,,no,,no,,,,,,,,230,18,8
-3/21/20,PL,Poland,no,,,,no,,,,,,,,425,5,1
-3/21/20,PT,Portugal,no,,,,no,,,,,,,,1020,6,5
+3/21/20,PY,Paraguay,no,,,,no,,,,,,,,18,1,
+3/21/20,PE,Peru,no,,,,no,,,,,,,,318,5,1
+3/21/20,PH,Philippines,no,,no,,no,,,,,,,,307,19,13
+3/21/20,PL,Poland,no,,,,no,,,,,,,,536,5,1
+3/21/20,PT,Portugal,no,,,,no,,,,,,,,1280,12,5
 3/21/20,PR,Puerto Rico,no,,,,no,,,,,,,,,,
-3/21/20,QA,Qatar,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,470,,10
+3/21/20,QA,Qatar,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,481,,27
 3/21/20,XK,Kosovo,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,,,
-3/21/20,RO,Romania,no,,,,no,,,,,,,,308,,25
-3/21/20,RU,Russia,yes,,,,yes,,,,,,,,253,1,9
+3/21/20,RO,Romania,no,,,,no,,,,,,,,367,,52
+3/21/20,RU,Russia,yes,,,,yes,,,,,,,,306,1,12
 3/21/20,RW,Rwanda,no,,,,no,,,,,,,,17,,
-3/21/20,SA,Saudi Arabia,no,,,,no,,,,,,,,344,,8
-3/21/20,SN,Senegal,no,,,,no,,,,,,,,38,,2
-3/21/20,RS,Serbia,no,,,,no,,,,,,,,135,1,1
+3/21/20,SA,Saudi Arabia,no,,,,no,,,,,,,,392,,16
+3/21/20,SN,Senegal,no,,,,no,,,,,,,,47,,5
+3/21/20,RS,Serbia,no,,,,no,,,,,,,,171,1,1
 3/21/20,SL,Sierra Leone,no,,,,no,,,,,,,,,,
-3/21/20,SK,Slovakia,no,,,,no,,,,,,,,137,1,
-3/21/20,SI,Slovenia,no,,,,no,,,,,,,,341,1,
+3/21/20,SK,Slovakia,no,,,,no,,,,,,,,178,1,
+3/21/20,SI,Slovenia,no,,,,no,,,,,,,,383,1,
 3/21/20,SB,Solomon Islands,no,,,,no,,,,,,,,,,
 3/21/20,SO,Somalia,no,,,,no,,,,,,,,1,,
-3/21/20,ZA,South Africa,no,,,,no,,,,,,,,202,,
+3/21/20,ZA,South Africa,no,,,,no,,,,,,,,240,,
 3/21/20,SS,South Sudan,no,,,,no,,,,,,,,,,
-3/21/20,ES,Spain,no,,,,no,,,,,,,,20410,1043,1588
-3/21/20,LK,Sri Lanka,no,,,,no,,,,,,,,73,,3
+3/21/20,ES,Spain,no,,,,no,,,,,,,,25374,1375,2125
+3/21/20,LK,Sri Lanka,no,,,,no,,,,,,,,77,,1
 3/21/20,SD,Sudan,no,,,,no,,,,,,,,2,1,
 3/21/20,SR,Suriname,no,,,,no,,,,,,,,4,,
 3/21/20,SJ,Svalbard and Jan Mayen,no,,,,no,,,,,,,,,,
 3/21/20,SZ,Swaziland,no,,,,no,,,,,,,,,,
-3/21/20,SE,Sweden,no,,,,no,,,,,,,,1639,16,16
-3/21/20,CH,Switzerland,no,,,,no,,,,,,,,5294,54,15
+3/21/20,SE,Sweden,no,,,,no,,,,,,,,1763,20,16
+3/21/20,CH,Switzerland,no,,,,no,,,,,,,,6575,75,15
 3/21/20,SY,Syria,no,,,,no,,,,,,,,,,
 3/21/20,TW,Taiwan,no,,,,no,,,,,,,,,,
 3/21/20,TJ,Tajikistan,no,,,,no,,,,,,,,,,
 3/21/20,TZ,Tanzania,no,,,,no,,,,,,,,,,
-3/21/20,TH,Thailand,no,,,,no,,,,,,,,322,1,42
+3/21/20,TH,Thailand,no,,,,no,,,,,,,,411,1,42
 3/21/20,TL,Timor-Leste,no,,,,no,,,,,,,,,,
-3/21/20,TG,Togo,no,,,,no,,,,,,,,9,,1
-3/21/20,TT,Trinidad and Tobago,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,9,,
-3/21/20,TN,Tunisia,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,54,1,
-3/21/20,TR,Turkey,no,,,,no,,,,,,,,359,4,
+3/21/20,TG,Togo,no,,,,no,,,,,,,,16,,1
+3/21/20,TT,Trinidad and Tobago,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,49,,1
+3/21/20,TN,Tunisia,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,60,1,
+3/21/20,TR,Turkey,no,,,,no,,,,,,,,670,9,
 3/21/20,TM,Turkmenistan,no,,,,no,,,,,,,,,,
-3/21/20,UG,Uganda,no,,,,no,,,,,,,,,,
-3/21/20,UA,Ukraine,no,,,,no,,,,,,,,29,3,
-3/21/20,AE,UAE,no,,,,no,,,,,,,,140,2,31
-3/21/20,GB,UK,yes,north,yes,north,yes,north,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,4014,178,67
-3/21/20,US,USA,yes,,yes,,yes,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,19051,244,
-3/21/20,UY,Uruguay,no,,,,no,,,,,,,,94,,
-3/21/20,UZ,Uzbekistan,no,,,,no,,,,,,,,33,,
+3/21/20,UG,Uganda,no,,,,no,,,,,,,,1,,
+3/21/20,UA,Ukraine,no,,,,no,,,,,,,,47,3,1
+3/21/20,AE,UAE,no,,,,no,,,,,,,,153,2,38
+3/21/20,GB,UK,yes,north,yes,north,yes,north,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,5067,234,67
+3/21/20,US,USA,yes,,yes,,yes,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,25440,307,
+3/21/20,UY,Uruguay,no,,,,no,,,,,,,,110,,
+3/21/20,UZ,Uzbekistan,no,,,,no,,,,,,,,43,,
 3/21/20,VU,Vanuatu,no,,,,no,,,,,,,,,,
 3/21/20,VE,Venezuela,no,,,,no,,,,,,,,,,
-3/21/20,VN,Vietnam,no,,,,no,,,,,,,,91,,16
+3/21/20,VN,Vietnam,no,,,,no,,,,,,,,94,,17
 3/21/20,EH,Western Sahara,no,,,,no,,,,,,,,,,
 3/21/20,YE,Yemen,no,,,,no,,,,,,,,,,
 3/21/20,ZM,Zambia,no,,,,no,,,,,,,,2,,
-3/21/20,ZW,Zimbabwe,no,,,,no,,,,,,,,1,,
-3/21/20,SG,Singapore,no,,,,no,,,,,,,,385,,124
+3/21/20,ZW,Zimbabwe,no,,,,no,,,,,,,,3,,
+3/21/20,SG,Singapore,no,,,,no,,,,,,,,432,2,140
 3/21/20,HK,Hong Kong,no,,,,no,,,,,,,,,,
 3/21/20,DP,Diamond Princess,no,,,,,,,,,,,,761,,
+3/22/20,AF,Afghanistan,no,,,,no,,,,,,,,24,,1
+3/22/20,AL,Albania,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,76,2,2
+3/22/20,DZ,Algeria,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,139,15,32
+3/22/20,AO,Angola,no,,,,no,,,,,,,,2,,
+3/22/20,AR,Argentina,no,,,,no,,,,,,,,158,4,3
+3/22/20,AM,Armenia,no,,,,no,,,,,,,,160,,1
+3/22/20,AU,Australia,yes,,yes,,yes,,,,,,,,1071,7,26
+3/22/20,AT,Austria,no,,,,no,,,,,,,,2814,8,9
+3/22/20,AZ,Azerbaijan,no,,,,no,,,,,,,,53,1,11
+3/22/20,BS,Bahamas,no,,,,no,,,,,,,,,,
+3/22/20,BD,Bangladesh,no,,,,no,,,,,,,,25,2,3
+3/22/20,BY,Belarus,no,,,,no,,,,,,,,76,,15
+3/22/20,BE,Belgium,no,,,,no,,,,,,,,2815,67,263
+3/22/20,BZ,Belize,no,,,,no,,,,,,,,,,
+3/22/20,BJ,Benin,no,,,,no,,,,,,,,2,,
+3/22/20,BT,Bhutan,no,,,,no,,,,,,,,2,,
+3/22/20,BO,Bolivia (Plurinational State of),no,,,,no,,,,,,,,,,
+3/22/20,BA,Bosnia and Herzegovina,no,,,,no,,,,,,,,93,1,2
+3/22/20,BW,Botswana,no,,,,no,,,,,,,,,,
+3/22/20,BR,Brazil,yes,,yes,,yes,,,,,,,,1021,15,2
+3/22/20,BN,Brunei Darussalam,no,,,,no,,,,,,,,,,
+3/22/20,BG,Bulgaria,no,,,,no,,,,,,,,163,3,3
+3/22/20,BF,Burkina Faso,no,,,,no,,,,,,,,64,2,5
+3/22/20,BI,Burundi,no,,,,no,,,,,,,,,,
+3/22/20,KH,Cambodia,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,53,,1
+3/22/20,CM,Cameroon,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,27,,
+3/22/20,CA,Canada,yes,,yes,,yes,,,,,,,,1278,19,10
+3/22/20,CF,Central African Republic,no,,,,no,,,,,,,,3,,
+3/22/20,TD,Chad,no,,,,no,,,,,,,,1,,
+3/22/20,CL,Chile,no,,,,no,,,,,,,,537,,6
+3/22/20,CN,China,yes,,yes,,yes,,80559,3042,53929,,,,81305,3259,71857
+3/22/20,CO,Colombia,no,,,,no,,,,,,,,196,,1
+3/22/20,CG,Congo Republic,no,,,,no,,,,,,,,,,
+3/22/20,CD,DR Congo,no,,,,no,,,,,,,,,,
+3/22/20,CR,Costa Rica,no,,,,no,,,,,,,,117,2,2
+3/22/20,CI,Côte d'Ivoire,no,,,,no,,,,,,,,,,
+3/22/20,HR,Croatia,no,,,,no,,,,,,,,206,1,5
+3/22/20,CU,Cuba,no,,,,no,,,,,,,,21,1,
+3/22/20,CY,Cyprus,no,,,,no,,,,,,,,84,,
+3/22/20,CZ,Czech Republic,no,,,,no,,,,,,,,995,,6
+3/22/20,DK,Denmark,no,,,,no,,,,,,,,1420,13,1
+3/22/20,DJ,Djibouti,no,,,,no,,,,,,,,1,,
+3/22/20,DO,Dominican Republic,no,,,,no,,,,,,,,112,2,
+3/22/20,EC,Ecuador,no,,,,no,,,,,,,,506,7,3
+3/22/20,EG,Egypt,no,,,,no,,,,,,,,294,10,41
+3/22/20,SV,El Salvador,no,,,,no,,,,,,,,3,,
+3/22/20,GQ,Equatorial Guinea,no,,,,no,,,,,,,,6,,
+3/22/20,ER,Eritrea,no,,,,no,,,,,,,,1,,
+3/22/20,EE,Estonia,no,,,,no,,,,,,,,306,,1
+3/22/20,ET,Ethiopia,no,,,,no,,,,,,,,9,,
+3/22/20,FK,Falklands,no,,,,no,,,,,,,,,,
+3/22/20,FJ,Fiji,no,,,,no,,,,,,,,1,,
+3/22/20,FI,Finland,no,,,,no,,,,,,,,523,1,10
+3/22/20,FR,France,yes,west,yes,west,yes,west,,,12,,,,14431,562,12
+3/22/20,GF,French Guiana,no,,,,no,,,,,,,,,,
+3/22/20,TF,French Southern Territories,no,,,,no,,,,,,,,,,
+3/22/20,GA,Gabon,no,,,,no,,,,,,,,4,1,
+3/22/20,GM,Gambia,no,,,,no,,,,,,,,,,
+3/22/20,GE,Georgia,no,,,,no,,,,,,,,49,,1
+3/22/20,DE,Germany,yes,east,,,yes,east,555,,17,,,,22213,84,233
+3/22/20,GH,Ghana,no,,,,no,,,,,,,,19,1,
+3/22/20,GR,Greece,no,,no,,no,,,,,,,,530,13,19
+3/22/20,GL,Greenland,no,,,,no,,,,,,,,,,
+3/22/20,GT,Guatemala,no,,,,no,,,,,,,,17,1,
+3/22/20,GN,Guinea,no,,,,no,,,,,,,,2,,
+3/22/20,GW,Guinea-Bissau,no,,,,no,,,,,,,,,,
+3/22/20,GY,Guyana,no,,,,no,,,,,,,,7,1,
+3/22/20,HT,Haiti,no,,,,no,,,,,,,,2,,
+3/22/20,HN,Honduras,no,,,,no,,,,,,,,24,,
+3/22/20,HU,Hungary,no,,,,no,,,,,,,,103,4,7
+3/22/20,IS,Iceland,no,,,,no,,,,,,,,473,1,22
+3/22/20,IN,India,no,,,,no,,,,,,,,330,4,23
+3/22/20,ID,Indonesia,no,,,,no,,,,,,,,450,38,15
+3/22/20,IR,Iran,yes,south,yes,south,yes,south,,,,,,,20610,1556,7635
+3/22/20,IQ,Iraq,no,,,,no,,,,,,,,214,17,51
+3/22/20,IE,Ireland,no,,,,no,,,,,,,,785,3,5
+3/22/20,IL,Israel,no,,,,no,,,,,,,,883,1,36
+3/22/20,IT,Italy,yes,south,yes,south,yes,south,,,,,,,53578,4825,6072
+3/22/20,JM,Jamaica,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,16,1,2
+3/22/20,JP,Japan,yes,east,yes,east,yes,east,381,6,43,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,1007,35,232
+3/22/20,JO,Jordan,no,,,,no,,,,,,,,85,,1
+3/22/20,KZ,Kazakhstan,no,,,,no,,,,,,,,53,,
+3/22/20,KE,Kenya,no,,,,no,,,,,,,,7,,
+3/22/20,KP,North Korea,no,,,,no,,,,,,,,,,
+3/22/20,KR,South Korea,yes,north,yes,north,yes,north,6593,42,135,,,,6593,42,135
+3/22/20,KW,Kuwait,no,,,,no,,,,,,,,176,,27
+3/22/20,KG,Kyrgyzstan,no,,,,no,,,,,,,,14,,
+3/22/20,LA,Laos,no,,,,no,,,,,,,,,,
+3/22/20,LV,Latvia,no,,,,no,,,,,,,,124,,1
+3/22/20,LB,Lebanon,no,,,,no,,,,,,,,187,4,4
+3/22/20,LS,Lesotho,no,,,,no,,,,,,,,,,
+3/22/20,LR,Liberia,no,,,,no,,,,,,,,3,,
+3/22/20,LY,Libya,no,,,,no,,,,,,,,,,
+3/22/20,LT,Lithuania,no,,,,no,,,,,,,,83,1,1
+3/22/20,LU,Luxembourg,no,,,,no,,,,,,,,670,8,
+3/22/20,MK,Macedonia,no,,,,no,,,,,,,,,,
+3/22/20,MG,Madagascar,no,,,,no,,,,,,,,3,,
+3/22/20,MW,Malawi,no,,,,no,,,,,,,,,,
+3/22/20,MY,Malaysia,no,,,,no,,,,,,,,1183,4,114
+3/22/20,ML,Mali,no,,,,no,,,,,,,,,,
+3/22/20,MR,Mauritania,no,,,,no,,,,,,,,2,,
+3/22/20,MX,Mexico,no,,,,no,,,,,,,,203,2,4
+3/22/20,MD,Moldova,no,,,,no,,,,,,,,,,
+3/22/20,MN,Mongolia,no,,,,no,,,,,,,,10,,
+3/22/20,ME,Montenegro,no,,,,no,,,,,,,,14,,
+3/22/20,MA,Morocco,no,,,,no,,,,,,,,96,3,3
+3/22/20,MZ,Mozambique,no,,,,no,,,,,,,,,,
+3/22/20,MM,Myanmar,no,,,,no,,,,,,,,,,
+3/22/20,NA,Namibia,no,,,,no,,,,,,,,3,,
+3/22/20,NP,Nepal,no,,,,no,,,,,,,,1,,1
+3/22/20,NL,Netherlands,no,,,,no,,,,,,,,3640,137,2
+3/22/20,NC,New Caledonia,no,,,,no,,,,,,,,,,
+3/22/20,NZ,New Zealand,no,,,,no,,,,,,,,52,,
+3/22/20,NI,Nicaragua,no,,,,no,,,,,,,,2,,
+3/22/20,NE,Niger,no,,,,no,,,,,,,,1,,
+3/22/20,NG,Nigeria,no,,,,no,,,,,,,,22,,1
+3/22/20,NO,Norway,no,,,,no,,,,,,,,2118,7,1
+3/22/20,OM,Oman,no,,,,no,,,,,,,,52,,12
+3/22/20,PK,Pakistan,no,,,,no,,,,,,,,730,3,13
+3/22/20,PS,Palestine,no,,,,no,,,,,,,,,,
+3/22/20,PA,Panama,no,,,,no,,,,,,,,200,1,
+3/22/20,PG,Papua New Guinea,no,,,,no,,,,,,,,1,,
+3/22/20,PY,Paraguay,no,,,,no,,,,,,,,18,1,
+3/22/20,PE,Peru,no,,,,no,,,,,,,,318,5,1
+3/22/20,PH,Philippines,no,,no,,no,,,,,,,,307,19,13
+3/22/20,PL,Poland,no,,,,no,,,,,,,,536,5,1
+3/22/20,PT,Portugal,no,,,,no,,,,,,,,1280,12,5
+3/22/20,PR,Puerto Rico,no,,,,no,,,,,,,,,,
+3/22/20,QA,Qatar,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,481,,27
+3/22/20,XK,Kosovo,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,,,
+3/22/20,RO,Romania,no,,,,no,,,,,,,,367,,52
+3/22/20,RU,Russia,yes,,,,yes,,,,,,,,306,1,12
+3/22/20,RW,Rwanda,no,,,,no,,,,,,,,17,,
+3/22/20,SA,Saudi Arabia,no,,,,no,,,,,,,,392,,16
+3/22/20,SN,Senegal,no,,,,no,,,,,,,,47,,5
+3/22/20,RS,Serbia,no,,,,no,,,,,,,,171,1,1
+3/22/20,SL,Sierra Leone,no,,,,no,,,,,,,,,,
+3/22/20,SK,Slovakia,no,,,,no,,,,,,,,178,1,
+3/22/20,SI,Slovenia,no,,,,no,,,,,,,,383,1,
+3/22/20,SB,Solomon Islands,no,,,,no,,,,,,,,,,
+3/22/20,SO,Somalia,no,,,,no,,,,,,,,1,,
+3/22/20,ZA,South Africa,no,,,,no,,,,,,,,240,,
+3/22/20,SS,South Sudan,no,,,,no,,,,,,,,,,
+3/22/20,ES,Spain,no,,,,no,,,,,,,,25374,1375,2125
+3/22/20,LK,Sri Lanka,no,,,,no,,,,,,,,77,,1
+3/22/20,SD,Sudan,no,,,,no,,,,,,,,2,1,
+3/22/20,SR,Suriname,no,,,,no,,,,,,,,4,,
+3/22/20,SJ,Svalbard and Jan Mayen,no,,,,no,,,,,,,,,,
+3/22/20,SZ,Swaziland,no,,,,no,,,,,,,,,,
+3/22/20,SE,Sweden,no,,,,no,,,,,,,,1763,20,16
+3/22/20,CH,Switzerland,no,,,,no,,,,,,,,6575,75,15
+3/22/20,SY,Syria,no,,,,no,,,,,,,,,,
+3/22/20,TW,Taiwan,no,,,,no,,,,,,,,,,
+3/22/20,TJ,Tajikistan,no,,,,no,,,,,,,,,,
+3/22/20,TZ,Tanzania,no,,,,no,,,,,,,,,,
+3/22/20,TH,Thailand,no,,,,no,,,,,,,,411,1,42
+3/22/20,TL,Timor-Leste,no,,,,no,,,,,,,,,,
+3/22/20,TG,Togo,no,,,,no,,,,,,,,16,,1
+3/22/20,TT,Trinidad and Tobago,no,,,,no,,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,49,,1
+3/22/20,TN,Tunisia,no,,,,no,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,60,1,
+3/22/20,TR,Turkey,no,,,,no,,,,,,,,670,9,
+3/22/20,TM,Turkmenistan,no,,,,no,,,,,,,,,,
+3/22/20,UG,Uganda,no,,,,no,,,,,,,,1,,
+3/22/20,UA,Ukraine,no,,,,no,,,,,,,,47,3,1
+3/22/20,AE,UAE,no,,,,no,,,,,,,,153,2,38
+3/22/20,GB,UK,yes,north,yes,north,yes,north,,,,THIS SPREADSHEET IS THE OLD VERSION. DO NOT USE ANY MORE.,,,5067,234,67
+3/22/20,US,USA,yes,,yes,,yes,,,,,TO UPDATE UK NUMBER USE THIS NEW SPREADSHEET PLEASE,,,25440,307,
+3/22/20,UY,Uruguay,no,,,,no,,,,,,,,110,,
+3/22/20,UZ,Uzbekistan,no,,,,no,,,,,,,,43,,
+3/22/20,VU,Vanuatu,no,,,,no,,,,,,,,,,
+3/22/20,VE,Venezuela,no,,,,no,,,,,,,,,,
+3/22/20,VN,Vietnam,no,,,,no,,,,,,,,94,,17
+3/22/20,EH,Western Sahara,no,,,,no,,,,,,,,,,
+3/22/20,YE,Yemen,no,,,,no,,,,,,,,,,
+3/22/20,ZM,Zambia,no,,,,no,,,,,,,,2,,
+3/22/20,ZW,Zimbabwe,no,,,,no,,,,,,,,3,,
+3/22/20,SG,Singapore,no,,,,no,,,,,,,,432,2,140
+3/22/20,HK,Hong Kong,no,,,,no,,,,,,,,,,
+3/22/20,DP,Diamond Princess,no,,,,,,,,,,,,761,,
