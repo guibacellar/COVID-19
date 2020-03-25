@@ -10,8 +10,8 @@ from nbconvert.preprocessors import ExecutePreprocessor
 def main() -> None:
 
     # Download and Parse Data
-    if cv19_downloader.download_timeline_data():
-        cv19_parser.parse_timeline_raw_data_to_csv()
+    #if cv19_downloader.download_timeline_data():
+    cv19_parser.parse_timeline_raw_data_to_csv()
 
     # Run Feature Generation Notebook
     print('Running Feature Generation Notebook: ', end='')
